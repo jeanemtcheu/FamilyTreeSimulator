@@ -2,8 +2,6 @@
 File:    family_tree.py
 Author:  Jean Andre Emtcheu
 Date:    5/3/2023
-Section: Lab Section 42
-E-mail:  jemtche1@umbc.edu
 Description:
   this is a family tree program that will enter people and query relations between various people in the family tree
 """
